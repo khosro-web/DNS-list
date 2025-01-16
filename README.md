@@ -1,30 +1,30 @@
-# DNS Lists Repository
+# DNS List Repository
 
 ## English
 
 ### Introduction
-This repository contains a collection of 12,715 DNS lists categorized into three separate files. These lists can be utilized for various purposes, such as network security, web filtering, and research.
+This repository contains a collection of 12,715 DNS records categorized into three separate files. These records can be utilized for various purposes, such as network security, web filtering, and research.
 
 ### Features
 - **Comprehensive**: A large collection of 12,715 DNS entries.
 - **Categorized**: Organized into three distinct files for easier navigation.
-- **Versatile**: Suitable for use in multiple applications, including network monitoring and analysis.
+- **Versatile**: Suitable for use in different applications, including network monitoring and analysis.
 
 ### Usage
-To make use of these DNS lists, follow these steps:
+To make use of these DNS records, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/username/dns-lists.git
+   git clone https://github.com/khosro-web/dns-list.git
    ```
 2. Navigate to the repository directory:
    ```bash
-   cd dns-lists
+   cd dns-list
    ```
-3. Access the desired file containing the DNS lists.
+3. Access the desired file containing the DNS List.
 
 [Switch to Persian](#فارسی)
 
-## Countries Included
+## Included Countries
 This DNS collection includes entries from the following countries:
 
 🇦🇩 Andorra (AD)
@@ -215,7 +215,7 @@ This DNS collection includes entries from the following countries:
 🇿🇼 Zimbabwe (ZW)
 
 ## License
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute these lists in your projects, provided that proper attribution is given to the original author.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute these List in your projects, provided that proper attribution is given to the original author.
 
 
 ---
@@ -223,30 +223,30 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## فارسی
 
 ### مقدمه
-این مخزن شامل مجموعه‌ای از 12,715 لیست DNS است که در سه فایل جداگانه دسته‌بندی شده‌اند. این لیست‌ها می‌توانند برای مقاصد مختلفی مانند امنیت شبکه، فیلتر کردن وب و تحقیق استفاده شوند.
+این مخزن شامل مجموعه‌ای از 12,715 رکورد DNS است که در دو فایل جداگانه دسته‌بندی شده‌اند. این رکورد ها می‌توانند برای مقاصد مختلفی مانند امنیت شبکه، فیلتر کردن وب و تحقیق استفاده شوند.
 
 ### ویژگی‌ها
-- **جامع**: مجموعه‌ای بزرگ شامل 12,715 ورودی DNS.
-- **دسته‌بندی‌شده**: سازماندهی شده در سه فایل مجزا برای دسترسی آسان‌تر.
+- **جامع**: مجموعه‌ای بزرگ که شامل 12,715 رکورد DNS است.
+- **دسته‌بندی‌شده**: سازماندهی شده در دو فایل مجزا برای دسترسی آسان‌تر.
 - **چندمنظوره**: مناسب برای استفاده در برنامه‌های مختلف از جمله نظارت و تحلیل شبکه.
 
 ### نحوه استفاده
-برای استفاده از این لیست‌های DNS، مراحل زیر را دنبال کنید:
-1. مخزن را به ماشین محلی خود کلون کنید:
+برای استفاده از این رکورد های DNS، مراحل زیر را دنبال کنید:
+1. مخزن را کلون کنید:
    ```bash
-   git clone https://github.com/username/dns-lists.git
+   git clone https://github.com/khosro-web/dns-list.git
    ```
-2. به دایرکتوری مخزن بروید:
+2. به پوشه‌ی پروژه بروید:
    ```bash
-   cd dns-lists
+   cd dns-list
    ```
-3. به فایل مورد نظر ورود کنید.
+3. وارد فایل مورد نظر بشوید.
 
 [Switch to English](#english)
 
 
 ## کشور‌های شامل شده
-این مجموعه DNS شامل ورودی‌هایی از کشورهای زیر است:
+این مجموعه شامل DNS هایی از کشورهای زیر است:
 
 🇦🇩 آندورا (AD)
 🇦🇪 امارات متحده عربی (AE)
